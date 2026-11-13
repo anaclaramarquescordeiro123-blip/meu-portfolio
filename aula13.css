@@ -1,0 +1,52 @@
+.pink dress{
+  border-radius: 50px;
+}
+
+.caixa1{
+  color: rgb(0, 0, 0);
+}
+
+.img{
+  width: 40px;
+}
+
+h1{
+  color: rgb(255, 155, 247);
+}
+
+.caixa1 {
+  position: static;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #000000;
+  text-align: center;
+}
+h1{
+ text-align: center;
+}
+.caixa2 {
+  position: static;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: rgb(253, 79, 253);
+   text-align: center;
+
+}
+
+.bella{
+  width:100%;
+  height: 100%;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  background-color: #ffd0fd;
+}
+
+a{
+  font-size: 30px;
+}
